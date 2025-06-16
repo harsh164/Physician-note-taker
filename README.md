@@ -11,11 +11,11 @@ Features
 
 Methodology
 
-Summarization:** DistilBART (`sshleifer/distilbart-cnn-12-6`)
-Entity Extraction:** SciSpaCy (`en_core_sci_sm`)
-Sentiment Analysis:** VADER
+Summarization:DistilBART (`sshleifer/distilbart-cnn-12-6`)
+Entity Extraction:SciSpaCy (`en_core_sci_sm`)
+Sentiment Analysis:VADER
 Keywords: RAKE
-SOAP Generator:** Template-based logic
+SOAP Generator:Template-based logic
 
 Setup
 git clone https://github.com/your-username/physician-notetaker.git
